@@ -1,8 +1,8 @@
 {
     "Notice": "软件公告: 更新Bug，解决稳定",
-    "updataDescription": "-更新测试",
+    "updataDescription": "-",
     "versionName": "1.1",
-    "versionId": "2",
+    "versionId": "1",
     //弹窗是否可取消
     "cancelable": "true",
     "downloadUrl": "http://xxxx.apk",
