@@ -1,9 +1,9 @@
 {
   "Notice": "软件公告：更新Bug，解决稳定",
-  "updataDescription": "软著已批，开始更新",
+  "updataDescription": "Logo重新设计\n主题名更改和主题默认更改\n默认打开index.html和文件管理\n修复图标缓存Bug\n图标裁剪功能\n打包zip功能修复",
   "versionName": "1.1",
   "versionId": "1",
   "cancelable": true,
-  "downloadUrl": "http://xxxx.apk",
+  "downloadUrl": "https://mrzguz.github.io/AnWebSHelp/WebSV1.1.apk",
   "qqGroup": "695309277"
 }
